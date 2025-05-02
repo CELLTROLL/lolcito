@@ -1,0 +1,45 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-05-02 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-02 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-05-02 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-02 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-05-02 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-02 02:14:50 +0000"
+    },
+    "done": false
+  },
+  "immersivecaves:immersive_caves": {
+    "criteria": {
+      "immersive_caves_0": "2025-05-02 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
