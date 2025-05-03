@@ -330,3 +330,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [03May2025 17:24:36.597] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
 [03May2025 17:24:37.917] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
 [03May2025 17:24:37.918] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[03May2025 17:25:22.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Stone Age]
+[03May2025 17:26:42.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Getting an Upgrade]
+[03May2025 17:27:16.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Stone Age]
+[03May2025 17:27:29.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Randomm09> JJSJJDJDD
+[03May2025 17:27:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Randomm09> JAJAJA XDDDDD
+[03May2025 17:27:37.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> pene
+[03May2025 17:27:43.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Stone Age]
+[03May2025 17:27:47.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Getting an Upgrade]
+[03May2025 17:28:37.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Getting an Upgrade]
+[03May2025 17:32:30.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1 [Beacon] to CELLTROLL7u7]
+[03May2025 17:32:54.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Randomm09> bro con ceta y un cuenco
+[03May2025 17:34:23.179] [Server thread/WARN] [tombstone/]: The death event of the player CELLTROLL7u7 was canceled by another mod
+[03May2025 17:34:23.186] [Server thread/INFO] [tombstone/]: The player CELLTROLL7u7 has successfully been saved
+[03May2025 17:35:02.075] [Server thread/WARN] [tombstone/]: The death event of the player CELLTROLL7u7 was canceled by another mod
+[03May2025 17:35:02.077] [Server thread/INFO] [tombstone/]: The player CELLTROLL7u7 has successfully been saved
+[03May2025 17:35:44.921] [Server thread/WARN] [tombstone/]: The death event of the player simoncitoPeru was canceled by another mod
+[03May2025 17:35:44.925] [Server thread/INFO] [tombstone/]: The player simoncitoPeru has successfully been saved
+[03May2025 17:35:52.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru was slain by Spider
+[03May2025 17:35:52.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Your First Grave]
+[03May2025 17:38:57.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Knowledge of Death]
+[03May2025 17:38:57.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Ambush]
+[03May2025 17:39:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 10 [Steak] to CELLTROLL7u7]
+[03May2025 17:39:51.671] [Server thread/WARN] [tombstone/]: The death event of the player simoncitoPeru was canceled by another mod
+[03May2025 17:39:51.682] [Server thread/INFO] [tombstone/]: The player simoncitoPeru has successfully been saved
+[03May2025 17:39:59.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru was blown up by Creeper
+[03May2025 17:40:32.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has reached the goal [Here They Come]
+[03May2025 17:40:35.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [A Strange Grave Dust]
+[03May2025 17:41:16.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Monster Hunter]
+[03May2025 17:41:57.814] [Server thread/WARN] [tombstone/]: The death event of the player simoncitoPeru was canceled by another mod
+[03May2025 17:41:57.819] [Server thread/INFO] [tombstone/]: The player simoncitoPeru has successfully been saved
+[03May2025 17:42:04.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru was slain by Zombie
+[03May2025 17:42:42.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Monster Hunter]
+[03May2025 17:43:00.717] [Server thread/WARN] [tombstone/]: The death event of the player Randomm09 was canceled by another mod
+[03May2025 17:43:00.725] [Server thread/INFO] [tombstone/]: The player Randomm09 has successfully been saved
+[03May2025 17:43:47.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 was slain by Zombie
+[03May2025 17:43:47.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Your First Grave]
+[03May2025 17:44:02.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pearlie'/8921, l='ServerLevel[world]', x=-344.30, y=61.05, z=208.30] died, message: 'Pearlie drowned'
+[03May2025 17:44:02.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Pearlie'/8921, l='ServerLevel[world]', x=-344.30, y=61.05, z=208.30] died: Pearlie drowned
