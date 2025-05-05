@@ -357,3 +357,148 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [05May2025 01:55:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Knowledge of Death]
 [05May2025 01:55:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Back to childhood]
 [05May2025 01:55:06.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Not even afraid of death]
+[05May2025 01:56:30.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05May2025 01:56:36.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1 [Silver Pickaxe] to CELLTROLL7u7]
+[05May2025 01:57:11.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1 [Bucket] to CELLTROLL7u7]
+[05May2025 01:58:01.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Who You Gonna Call?]
+[05May2025 01:58:50.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Suit Up]
+[05May2025 02:02:37.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicha lost connection: Disconnected
+[05May2025 02:02:37.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha left the game
+[05May2025 02:02:37.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client chicha
+[05May2025 02:02:37.262] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05May2025 02:06:07.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@424c2417[id=<null>,name=chicha,properties={},legacy=false] (/127.92.36.220:56013) lost connection: Disconnected
+[05May2025 02:06:40.109] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67ea9a29[id=<null>,name=chicha,properties={},legacy=false] (/127.92.36.220:49791) lost connection: Disconnected
+[05May2025 02:06:57.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15955f10[id=<null>,name=chicha,properties={},legacy=false] (/127.92.36.220:41263) lost connection: Disconnected
+[05May2025 02:07:19.260] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e184000[id=<null>,name=chicha,properties={},legacy=false] (/127.92.36.220:34699) lost connection: Disconnected
+[05May2025 02:09:11.109] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a40765c[id=<null>,name=chicha,properties={},legacy=false] (/127.92.36.220:44331) lost connection: Disconnected
+[05May2025 02:09:21.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: simoncitoPeru[/127.212.250.59:60447] logged in with entity id 25320 at (1400.3993779440511, 76.0, -1629.1384670283003)
+[05May2025 02:09:21.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru joined the game
+[05May2025 02:09:21.740] [Server thread/INFO] [Jade/]: Syncing config to simoncitoPeru (5167a947-8ba9-30dc-bfa4-dcf5cb62eea0)
+[05May2025 02:09:23.480] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of simoncitoPeru (18)
+[05May2025 02:09:23.480] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to simoncitoPeru
+[05May2025 02:10:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> duerma bro
+[05May2025 02:10:38.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CELLTROLL7u7> bro
+[05May2025 02:10:40.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CELLTROLL7u7> ja
+[05May2025 02:10:44.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chicha[/127.92.36.220:36219] logged in with entity id 25783 at (1349.4737306226766, 116.25220334025373, -573.5007691409837)
+[05May2025 02:10:44.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha joined the game
+[05May2025 02:10:44.449] [Server thread/INFO] [Jade/]: Syncing config to chicha (9b20e3c6-ba67-3681-b2e2-30a5e073e469)
+[05May2025 02:10:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CELLTROLL7u7> estoy lejisimos de una cama
+[05May2025 02:10:45.585] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chicha (18)
+[05May2025 02:10:45.586] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chicha
+[05May2025 02:10:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> bro muy suave
+[05May2025 02:11:00.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has reached the goal [Skyslime Island]
+[05May2025 02:11:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> lit aca todo esta igual
+[05May2025 02:16:22.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Ambush]
+[05May2025 02:17:37.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicha lost connection: Disconnected
+[05May2025 02:17:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha left the game
+[05May2025 02:17:37.971] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client chicha
+[05May2025 02:17:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Suit Up]
+[05May2025 02:18:33.618] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6dc3b864[id=<null>,name=chicha,properties={},legacy=false] (/127.92.36.220:41467) lost connection: Disconnected
+[05May2025 02:18:38.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chicha[/127.92.36.220:44337] logged in with entity id 32233 at (1133.217026172419, 78.0, -1005.3654934494792)
+[05May2025 02:18:38.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha joined the game
+[05May2025 02:18:38.303] [Server thread/INFO] [Jade/]: Syncing config to chicha (9b20e3c6-ba67-3681-b2e2-30a5e073e469)
+[05May2025 02:18:38.988] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chicha (18)
+[05May2025 02:18:38.989] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chicha
+[05May2025 02:18:48.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicha lost connection: Disconnected
+[05May2025 02:18:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha left the game
+[05May2025 02:18:48.384] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client chicha
+[05May2025 02:19:16.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chicha[/127.92.36.220:42461] logged in with entity id 33519 at (1139.7306098274112, 79.0, -1024.9253751003328)
+[05May2025 02:19:16.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha joined the game
+[05May2025 02:19:16.949] [Server thread/INFO] [Jade/]: Syncing config to chicha (9b20e3c6-ba67-3681-b2e2-30a5e073e469)
+[05May2025 02:19:17.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chicha (18)
+[05May2025 02:19:17.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chicha
+[05May2025 02:19:22.331] [Server thread/WARN] [tombstone/]: The death event of the player chicha was canceled by another mod
+[05May2025 02:19:22.334] [Server thread/INFO] [tombstone/]: The player chicha has successfully been saved
+[05May2025 02:19:33.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha burned to death
+[05May2025 02:19:33.329] [Server thread/INFO] [tombstone/]: The player chicha has successfully been saved
+[05May2025 02:20:01.654] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35220, l='ServerLevel[world]', x=1487.50, y=74.00, z=-1798.50]
+[05May2025 02:20:36.753] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36115, l='ServerLevel[world]', x=1488.50, y=74.00, z=-1798.50]
+[05May2025 02:21:59.702] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38554, l='ServerLevel[world]', x=1450.50, y=73.00, z=-1846.50]
+[05May2025 02:22:31.419] [Server thread/WARN] [tombstone/]: The death event of the player chicha was canceled by another mod
+[05May2025 02:22:31.432] [Server thread/INFO] [tombstone/]: The player chicha has successfully been saved
+[05May2025 02:22:47.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha was incinerated by a dragon
+[05May2025 02:24:29.561] [Server thread/WARN] [tombstone/]: The death event of the player chicha was canceled by another mod
+[05May2025 02:24:29.574] [Server thread/INFO] [tombstone/]: The player chicha has successfully been saved
+[05May2025 02:24:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha burned to death
+[05May2025 02:24:40.524] [Server thread/INFO] [tombstone/]: The player chicha has successfully been saved
+[05May2025 02:28:39.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lea'/43821, l='ServerLevel[world]', x=1147.72, y=82.00, z=-960.31] died, message: 'Lea walked into fire whilst fighting Fire Dragon'
+[05May2025 02:28:39.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lea'/43821, l='ServerLevel[world]', x=1147.72, y=82.00, z=-960.31] died: Lea walked into fire whilst fighting Fire Dragon
+[05May2025 02:29:00.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [I slipped]
+[05May2025 02:30:06.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [The Desert Swimmers]
+[05May2025 02:33:18.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 15 experience points to CELLTROLL7u7]
+[05May2025 02:33:24.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 30 experience points to CELLTROLL7u7]
+[05May2025 02:33:28.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 100 experience points to CELLTROLL7u7]
+[05May2025 02:33:33.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1000 experience points to CELLTROLL7u7]
+[05May2025 02:34:11.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Ice Bucket Challenge]
+[05May2025 02:34:38.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toney'/44140, l='ServerLevel[world]', x=1125.51, y=78.00, z=-1029.30] died, message: 'Toney was turned into KFC by Fire Dragon'
+[05May2025 02:34:38.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Toney'/44140, l='ServerLevel[world]', x=1125.51, y=78.00, z=-1029.30] died: Toney was incinerated by Fire Dragon
+[05May2025 02:39:53.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CELLTROLL7u7 lost connection: Disconnected
+[05May2025 02:39:53.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 left the game
+[05May2025 02:39:53.673] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CELLTROLL7u7
+[05May2025 02:40:01.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Randomm09[/127.200.18.165:54767] logged in with entity id 54016 at (1407.1638359521573, 82.5625, -1640.1157791159246)
+[05May2025 02:40:01.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 joined the game
+[05May2025 02:40:01.269] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
+[05May2025 02:40:02.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
+[05May2025 02:40:02.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[05May2025 02:40:03.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CELLTROLL7u7[/127.159.255.78:36153] logged in with entity id 54058 at (1563.979414898279, -55.0, -1498.4839711476682)
+[05May2025 02:40:03.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 joined the game
+[05May2025 02:40:03.832] [Server thread/INFO] [Jade/]: Syncing config to CELLTROLL7u7 (17de3eaa-b364-3e26-badb-8aeeb575acb2)
+[05May2025 02:40:03.953] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CELLTROLL7u7 (18)
+[05May2025 02:40:03.954] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CELLTROLL7u7
+[05May2025 02:40:25.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [A Strange Grave Dust]
+[05May2025 02:40:31.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Randomm09 lost connection: Timed out
+[05May2025 02:40:31.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 left the game
+[05May2025 02:40:31.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Randomm09
+[05May2025 02:40:51.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Randomm09[/127.200.18.165:40203] logged in with entity id 54871 at (1407.1638359521573, 82.5625, -1640.1157791159246)
+[05May2025 02:40:51.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 joined the game
+[05May2025 02:40:51.567] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
+[05May2025 02:40:51.972] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
+[05May2025 02:40:51.973] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[05May2025 02:41:21.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Randomm09 lost connection: Timed out
+[05May2025 02:41:21.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 left the game
+[05May2025 02:41:21.575] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Randomm09
+[05May2025 02:42:23.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Randomm09[/127.200.18.165:46373] logged in with entity id 55689 at (1407.1638359521573, 82.5625, -1640.1157791159246)
+[05May2025 02:42:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 joined the game
+[05May2025 02:42:23.181] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
+[05May2025 02:42:23.427] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
+[05May2025 02:42:23.427] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[05May2025 02:42:53.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Randomm09 lost connection: Timed out
+[05May2025 02:42:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 left the game
+[05May2025 02:42:53.229] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Randomm09
+[05May2025 02:43:23.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Randomm09[/127.200.18.165:50921] logged in with entity id 56669 at (1407.1638359521573, 82.5625, -1640.1157791159246)
+[05May2025 02:43:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 joined the game
+[05May2025 02:43:24.077] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
+[05May2025 02:43:24.230] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
+[05May2025 02:43:24.230] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[05May2025 02:43:54.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Randomm09 lost connection: Timed out
+[05May2025 02:43:54.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 left the game
+[05May2025 02:43:54.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Randomm09
+[05May2025 02:44:17.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Randomm09[/127.200.18.165:44121] logged in with entity id 57647 at (1407.1638359521573, 82.5625, -1640.1157791159246)
+[05May2025 02:44:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 joined the game
+[05May2025 02:44:17.565] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
+[05May2025 02:44:18.596] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
+[05May2025 02:44:18.596] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[05May2025 02:44:34.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simoncitoPeru lost connection: Disconnected
+[05May2025 02:44:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru left the game
+[05May2025 02:44:34.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client simoncitoPeru
+[05May2025 02:44:35.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CELLTROLL7u7 lost connection: Disconnected
+[05May2025 02:44:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 left the game
+[05May2025 02:44:35.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CELLTROLL7u7
+[05May2025 02:44:38.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicha lost connection: Disconnected
+[05May2025 02:44:38.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha left the game
+[05May2025 02:44:38.716] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client chicha
+[05May2025 02:44:45.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Randomm09 lost connection: Disconnected
+[05May2025 02:44:45.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 left the game
+[05May2025 02:44:45.008] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Randomm09
+[05May2025 02:44:45.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05May2025 02:44:45.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05May2025 02:44:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05May2025 02:44:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05May2025 02:44:45.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05May2025 02:44:46.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05May2025 02:44:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05May2025 02:44:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05May2025 02:44:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05May2025 02:44:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05May2025 02:44:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05May2025 02:44:46.624] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
