@@ -314,3 +314,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [05May2025 01:12:06.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CELLTROLL7u7 lost connection: Disconnected
 [05May2025 01:12:06.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 left the game
 [05May2025 01:12:06.266] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CELLTROLL7u7
+[05May2025 01:22:54.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chicha[/127.92.36.220:43149] logged in with entity id 809 at (521.5, 64.0, -284.5)
+[05May2025 01:22:54.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha joined the game
+[05May2025 01:22:54.099] [Server thread/INFO] [Jade/]: Syncing config to chicha (9b20e3c6-ba67-3681-b2e2-30a5e073e469)
+[05May2025 01:22:54.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Ice and Fire]
+[05May2025 01:22:54.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Immersive Caves!]
+[05May2025 01:22:54.336] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chicha (18)
+[05May2025 01:22:54.338] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chicha
+[05May2025 01:23:01.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CELLTROLL7u7[/127.159.255.78:50233] logged in with entity id 958 at (1542.0463262962066, 73.0, -1642.4071377305609)
+[05May2025 01:23:01.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 joined the game
+[05May2025 01:23:01.815] [Server thread/INFO] [Jade/]: Syncing config to CELLTROLL7u7 (17de3eaa-b364-3e26-badb-8aeeb575acb2)
+[05May2025 01:23:02.571] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CELLTROLL7u7 (18)
+[05May2025 01:23:02.572] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CELLTROLL7u7
+[05May2025 01:23:49.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1 [Silver Pickaxe] to chicha]
+[05May2025 01:24:14.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1 [Silver Pickaxe] to CELLTROLL7u7]
+[05May2025 01:26:27.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Sweet Dreams]
+[05May2025 01:37:05.466] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/8543, l='ServerLevel[world]', x=1045.95, y=87.79, z=-592.87]
+[05May2025 01:37:10.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Stone Age]
+[05May2025 01:41:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Ice Bucket Challenge]
+[05May2025 01:42:03.213] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1122, y=62, z=-730}
+[05May2025 01:42:06.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicha lost connection: Disconnected
+[05May2025 01:42:06.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha left the game
+[05May2025 01:42:06.978] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client chicha
+[05May2025 01:42:27.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 20 [Steak] to CELLTROLL7u7]
+[05May2025 01:42:50.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chicha[/127.92.36.220:40663] logged in with entity id 11857 at (920.6684478819539, 78.0, -629.5850188945099)
+[05May2025 01:42:50.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha joined the game
+[05May2025 01:42:50.162] [Server thread/INFO] [Jade/]: Syncing config to chicha (9b20e3c6-ba67-3681-b2e2-30a5e073e469)
+[05May2025 01:42:50.679] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chicha (18)
+[05May2025 01:42:50.680] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chicha
+[05May2025 01:43:00.666] [Server thread/WARN] [tombstone/]: The death event of the player chicha was canceled by another mod
+[05May2025 01:43:00.678] [Server thread/INFO] [tombstone/]: The player chicha has successfully been saved
+[05May2025 01:43:10.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha burned to death
+[05May2025 01:43:10.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Your First Grave]
+[05May2025 01:43:10.685] [Server thread/INFO] [tombstone/]: The player chicha has successfully been saved
+[05May2025 01:43:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has reached the goal [Here They Come]
+[05May2025 01:44:45.509] [Server thread/WARN] [tombstone/]: The death event of the player chicha was canceled by another mod
+[05May2025 01:44:45.519] [Server thread/INFO] [tombstone/]: The player chicha has successfully been saved
+[05May2025 01:45:01.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha was incinerated by a dragon
+[05May2025 01:48:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Monster Hunter]
+[05May2025 01:49:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Acquire Hardware]
+[05May2025 01:55:03.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05May2025 01:55:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Knowledge of Death]
+[05May2025 01:55:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Back to childhood]
+[05May2025 01:55:06.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicha has made the advancement [Not even afraid of death]
