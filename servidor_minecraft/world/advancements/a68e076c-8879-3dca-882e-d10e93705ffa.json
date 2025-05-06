@@ -836,6 +836,7 @@
       "minecraft:spider": "2025-05-05 04:03:26 +0000",
       "minecraft:creeper": "2025-05-06 01:04:30 +0000",
       "minecraft:husk": "2025-05-03 18:09:54 +0000",
+      "minecraft:cave_spider": "2025-05-06 04:05:13 +0000",
       "minecraft:enderman": "2025-05-06 02:49:04 +0000",
       "minecraft:zombie": "2025-05-03 18:37:56 +0000"
     },
@@ -3505,6 +3506,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-06 04:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-06 03:43:21 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_boots": {
     "criteria": {
       "has_item": "2025-05-06 02:10:57 +0000"
@@ -3520,6 +3533,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-06 02:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-06 03:43:21 +0000"
     },
     "done": true
   },
@@ -3553,9 +3572,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-06 04:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-05-06 02:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-06 04:06:06 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:myeyes": {
+    "criteria": {
+      "myeyes_0": "2025-05-06 04:00:28 +0000"
     },
     "done": true
   },
@@ -3613,6 +3650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-06 03:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2025-05-06 02:10:11 +0000"
@@ -3655,6 +3698,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-06 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-06 04:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-06 03:43:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-06 03:43:21 +0000"
+    },
+    "done": true
+  },
   "obsidianequipment:recipes/misc/obsidian_axe": {
     "criteria": {
       "has_ingredient": "2025-05-06 02:21:08 +0000"
@@ -3664,6 +3731,36 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-05-06 02:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-06 03:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-06 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-06 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:im_not_feeling_so_good": {
+    "criteria": {
+      "im_not_feeling_so_good_0": "2025-05-06 03:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-06 03:43:00 +0000"
     },
     "done": true
   },
@@ -3685,9 +3782,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-06 04:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-06 02:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-06 03:43:00 +0000"
     },
     "done": true
   },
@@ -3697,9 +3806,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-05-06 03:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-05-06 02:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-06 04:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-06 03:43:15 +0000"
     },
     "done": true
   },
@@ -3712,6 +3839,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2025-05-06 03:42:00 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:ow": {
+    "criteria": {
+      "ow_0": "2025-05-06 03:59:56 +0000"
     },
     "done": true
   },
@@ -3730,6 +3863,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-06 02:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-06 03:53:42 +0000"
     },
     "done": true
   },

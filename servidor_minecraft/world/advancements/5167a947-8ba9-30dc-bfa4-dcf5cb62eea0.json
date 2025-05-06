@@ -3608,6 +3608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 03:43:14 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-05-06 02:12:53 +0000"
@@ -3710,6 +3716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 03:43:14 +0000"
+    },
+    "done": true
+  },
   "obsidianequipment:recipes/misc/obsidian_chest": {
     "criteria": {
       "has_ingredient": "2025-05-06 02:13:51 +0000"
@@ -3767,6 +3779,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 02:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 03:43:14 +0000"
     },
     "done": true
   },

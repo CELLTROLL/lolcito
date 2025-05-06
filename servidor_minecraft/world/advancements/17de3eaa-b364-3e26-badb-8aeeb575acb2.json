@@ -30,6 +30,7 @@
       "minecraft:lukewarm_ocean": "2025-05-03 19:36:10 +0000",
       "minecraft:forest": "2025-05-03 18:27:35 +0000",
       "minecraft:desert": "2025-05-03 17:57:37 +0000",
+      "minecraft:warm_ocean": "2025-05-06 04:02:49 +0000",
       "minecraft:savanna": "2025-05-05 03:13:21 +0000"
     },
     "done": false
@@ -3305,6 +3306,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-05-06 04:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-06 02:13:30 +0000"
@@ -3329,6 +3336,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-06 04:04:37 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-05-06 02:13:05 +0000"
@@ -3340,6 +3353,12 @@
       "has_copper_ingot": "2025-05-06 02:13:05 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-05-06 04:04:37 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/brush": {
     "criteria": {
@@ -3383,9 +3402,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-06 03:53:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-06 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-06 04:04:37 +0000"
     },
     "done": true
   },
@@ -3425,6 +3456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-06 03:53:55 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
     "criteria": {
       "has_item": "2025-05-06 02:13:05 +0000"
@@ -3437,15 +3474,51 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-05-06 04:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-06 02:13:30 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-06 03:58:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-05-06 04:03:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-05-06 04:04:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-05-06 04:04:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/palm_sign": {
     "criteria": {
       "has_planks": "2025-05-06 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-06 03:53:55 +0000"
     },
     "done": true
   },
@@ -3478,6 +3551,18 @@
   "biomesoplenty:recipes/building_blocks/palm_stairs": {
     "criteria": {
       "has_planks": "2025-05-06 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-06 03:56:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-06 04:04:37 +0000"
     },
     "done": true
   },
