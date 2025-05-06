@@ -3411,9 +3411,21 @@
     },
     "done": true
   },
+  "immersivecaves:funguy": {
+    "criteria": {
+      "funguy_0": "2025-05-06 00:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-06 00:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-06 00:51:43 +0000"
     },
     "done": true
   },
@@ -3423,9 +3435,21 @@
     },
     "done": true
   },
+  "immersivecaves:a_mushroom_a_day": {
+    "criteria": {
+      "a_mushroom_a_day_0": "2025-05-06 00:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-06 00:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-06 00:51:43 +0000"
     },
     "done": true
   },

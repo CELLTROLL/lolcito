@@ -339,3 +339,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 00:48:19.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alton'/11488, l='ServerLevel[world]', x=762.58, y=86.00, z=-1551.26] died: Alton was slain by Fire Dragon
 [06May2025 00:51:38.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Fun Guy]
 [06May2025 00:51:43.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has reached the goal [A Mushroom A Day]
+[06May2025 00:54:59.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> [name:"casa", x:1403, y:82, z:-1649, dim:minecraft:overworld]
+[06May2025 00:55:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> [x:868, y:-10, z:-1736, dim:minecraft:overworld]
