@@ -3299,6 +3299,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-06 02:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-06 02:13:30 +0000"
@@ -3395,6 +3401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-06 02:35:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_door": {
     "criteria": {
       "has_planks": "2025-05-06 02:19:25 +0000"
@@ -3452,6 +3464,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-05-06 02:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-06 02:35:29 +0000"
     },
     "done": true
   },

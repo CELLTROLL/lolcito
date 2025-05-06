@@ -386,3 +386,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 02:03:36.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 20 [Diamond] to CELLTROLL7u7]
 [06May2025 02:14:33.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 20 [Obsidian] to CELLTROLL7u7]
 [06May2025 02:33:09.340] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tile_grave
+[06May2025 02:36:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [They Have a Cave Troll!]
+[06May2025 02:38:00.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Katharina'/57421, l='ServerLevel[world]', x=1122.48, y=79.00, z=-1017.42] died, message: 'Katharina was incinerated by Fire Dragon'
+[06May2025 02:38:00.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Katharina'/57421, l='ServerLevel[world]', x=1122.48, y=79.00, z=-1017.42] died: Katharina was turned into KFC by Fire Dragon
+[06May2025 02:38:16.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pat'/57321, l='ServerLevel[world]', x=1113.34, y=78.00, z=-1008.51] died, message: 'Pat was slain by Fire Dragon'
+[06May2025 02:38:16.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Pat'/57321, l='ServerLevel[world]', x=1113.34, y=78.00, z=-1008.51] died: Pat was slain by Fire Dragon
+[06May2025 02:38:26.809] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mary'/57568, l='ServerLevel[world]', x=1112.57, y=78.00, z=-1025.14] died, message: 'Mary was slain by Fire Dragon'
+[06May2025 02:38:26.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mary'/57568, l='ServerLevel[world]', x=1112.57, y=78.00, z=-1025.14] died: Mary was slain by Fire Dragon
+[06May2025 02:41:09.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Theresa'/56889, l='ServerLevel[world]', x=1141.47, y=82.00, z=-1035.62] died, message: 'Theresa was incinerated by Fire Dragon'
+[06May2025 02:41:09.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Theresa'/56889, l='ServerLevel[world]', x=1141.47, y=82.00, z=-1035.62] died: Theresa was turned into KFC by Fire Dragon
