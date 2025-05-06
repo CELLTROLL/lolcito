@@ -5987,3 +5987,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 03:19:44.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Take Aim]
 [06May2025 03:22:42.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06May2025 03:22:42.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 03:27:42.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 03:27:42.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 03:29:22.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Spectator Mode]
+[06May2025 03:30:45.984] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tile_grave
+[06May2025 03:32:42.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 03:32:42.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 03:33:13.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
