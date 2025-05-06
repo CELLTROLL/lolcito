@@ -174,7 +174,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-06 00:43:25 +0000",
-      "bread": "2025-05-03 18:01:01 +0000"
+      "bread": "2025-05-03 18:01:01 +0000",
+      "rotten_flesh": "2025-05-06 01:12:22 +0000",
+      "mushroom_stew": "2025-05-06 00:59:28 +0000"
     },
     "done": false
   },
@@ -831,6 +833,7 @@
       "minecraft:pillager": "2025-05-05 03:13:47 +0000",
       "minecraft:skeleton": "2025-05-03 18:40:30 +0000",
       "minecraft:spider": "2025-05-05 04:03:26 +0000",
+      "minecraft:creeper": "2025-05-06 01:04:30 +0000",
       "minecraft:husk": "2025-05-03 18:09:54 +0000",
       "minecraft:zombie": "2025-05-03 18:37:56 +0000"
     },
@@ -2450,6 +2453,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-06 01:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-06 00:18:39 +0000"
@@ -2558,6 +2567,12 @@
     },
     "done": true
   },
+  "immersivecaves:funguy": {
+    "criteria": {
+      "funguy_0": "2025-05-06 01:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-06 00:26:10 +0000"
@@ -2591,6 +2606,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-05-06 00:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-05-06 00:59:24 +0000"
     },
     "done": true
   },
@@ -2642,6 +2663,12 @@
     },
     "done": true
   },
+  "immersivecaves:a_mushroom_a_day": {
+    "criteria": {
+      "a_mushroom_a_day_0": "2025-05-06 01:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-06 00:34:25 +0000"
@@ -2672,6 +2699,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_mushroom_stew": "2025-05-06 00:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-06 00:34:25 +0000"
@@ -2699,6 +2732,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-06 00:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-05-06 00:59:24 +0000"
     },
     "done": true
   },

@@ -341,3 +341,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 00:51:43.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has reached the goal [A Mushroom A Day]
 [06May2025 00:54:59.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> [name:"casa", x:1403, y:82, z:-1649, dim:minecraft:overworld]
 [06May2025 00:55:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> [x:868, y:-10, z:-1736, dim:minecraft:overworld]
+[06May2025 01:02:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Fun Guy]
+[06May2025 01:07:32.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Not Today, Thank You]
+[06May2025 01:08:15.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has reached the goal [A Mushroom A Day]
+[06May2025 01:08:43.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elfreda'/16131, l='ServerLevel[world]', x=781.51, y=89.55, z=-1544.86] died, message: 'Elfreda was slain by Fire Dragon'
+[06May2025 01:08:43.813] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elfreda'/16131, l='ServerLevel[world]', x=781.51, y=89.55, z=-1544.86] died: Elfreda was slain by Fire Dragon
+[06May2025 01:09:18.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leila'/26339, l='ServerLevel[world]', x=767.44, y=88.57, z=-1563.71] died, message: 'Leila was incinerated by Fire Dragon'
+[06May2025 01:09:18.016] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leila'/26339, l='ServerLevel[world]', x=767.44, y=88.57, z=-1563.71] died: Leila was turned into KFC by Fire Dragon
+[06May2025 01:11:25.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Deborah'/27730, l='ServerLevel[world]', x=764.05, y=87.00, z=-1569.34] died, message: 'Deborah burned to death'
+[06May2025 01:11:25.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Deborah'/27730, l='ServerLevel[world]', x=764.05, y=87.00, z=-1569.34] died: Deborah burned to death
