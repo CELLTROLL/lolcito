@@ -316,3 +316,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 00:21:00.950] [Server thread/INFO] [Jade/]: Syncing config to simoncitoPeru (5167a947-8ba9-30dc-bfa4-dcf5cb62eea0)
 [06May2025 00:21:01.828] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of simoncitoPeru (18)
 [06May2025 00:21:01.829] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to simoncitoPeru
+[06May2025 00:21:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru was killed by Witch using magic
+[06May2025 00:22:46.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> [name:"Muerte 18:21:40 05-05-2025", x:1015, y:-46, z:-1793, dim:minecraft:overworld]
+[06May2025 00:22:55.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CELLTROLL7u7 lost connection: Disconnected
+[06May2025 00:22:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 left the game
+[06May2025 00:22:55.708] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CELLTROLL7u7
+[06May2025 00:23:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Randomm09> ZZZZ
+[06May2025 00:23:14.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CELLTROLL7u7[/127.159.255.78:57967] logged in with entity id 2258 at (1408.4377045789724, 75.0, -1634.420110789075)
+[06May2025 00:23:14.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 joined the game
+[06May2025 00:23:14.958] [Server thread/INFO] [Jade/]: Syncing config to CELLTROLL7u7 (17de3eaa-b364-3e26-badb-8aeeb575acb2)
+[06May2025 00:23:15.061] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CELLTROLL7u7 (18)
+[06May2025 00:23:15.061] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CELLTROLL7u7
+[06May2025 00:23:40.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2384, l='ServerLevel[world]', x=1358.50, y=79.00, z=-1847.50]
+[06May2025 00:23:44.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2402, l='ServerLevel[world]', x=1392.50, y=77.00, z=-1841.50]
+[06May2025 00:23:52.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2475, l='ServerLevel[world]', x=1356.50, y=78.00, z=-1854.50]
+[06May2025 00:25:39.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru burned to death
+[06May2025 00:28:45.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru burned to death
+[06May2025 00:33:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 64 [Birch Fence] to CELLTROLL7u7]
+[06May2025 00:41:07.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Diamonds!]
+[06May2025 00:45:38.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1 [Bucket] to CELLTROLL7u7]
+[06May2025 00:48:19.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alton'/11488, l='ServerLevel[world]', x=762.58, y=86.00, z=-1551.26] died, message: 'Alton was slain by Fire Dragon'
+[06May2025 00:48:19.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alton'/11488, l='ServerLevel[world]', x=762.58, y=86.00, z=-1551.26] died: Alton was slain by Fire Dragon
+[06May2025 00:51:38.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Fun Guy]
+[06May2025 00:51:43.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has reached the goal [A Mushroom A Day]
