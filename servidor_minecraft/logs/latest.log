@@ -385,3 +385,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 01:59:41.998] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46021, l='ServerLevel[world]', x=1355.50, y=78.00, z=-1854.50]
 [06May2025 02:03:36.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 20 [Diamond] to CELLTROLL7u7]
 [06May2025 02:14:33.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 20 [Obsidian] to CELLTROLL7u7]
+[06May2025 02:33:09.340] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tile_grave
