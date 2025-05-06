@@ -366,3 +366,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 01:24:20.066] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to simoncitoPeru
 [06May2025 01:25:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 went up in flames
 [06May2025 01:26:50.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Take Aim]
+[06May2025 01:46:21.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simoncitoPeru lost connection: Timed out
+[06May2025 01:46:21.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru left the game
+[06May2025 01:46:21.905] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client simoncitoPeru
+[06May2025 01:46:25.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Randomm09 lost connection: Disconnected
+[06May2025 01:46:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 left the game
+[06May2025 01:46:25.005] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Randomm09
+[06May2025 01:46:35.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Randomm09[/127.0.78.193:37357] logged in with entity id 41693 at (1399.793896813573, 82.0, -1663.8710325359364)
+[06May2025 01:46:35.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 joined the game
+[06May2025 01:46:35.539] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
+[06May2025 01:46:42.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: simoncitoPeru[/127.212.250.59:42589] logged in with entity id 41851 at (1387.8152827848687, 82.0, -1641.9431364766983)
+[06May2025 01:46:42.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru joined the game
+[06May2025 01:46:42.183] [Server thread/INFO] [Jade/]: Syncing config to simoncitoPeru (5167a947-8ba9-30dc-bfa4-dcf5cb62eea0)
+[06May2025 01:46:42.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of simoncitoPeru (18)
+[06May2025 01:46:42.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to simoncitoPeru
+[06May2025 01:46:47.910] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
+[06May2025 01:46:47.910] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
