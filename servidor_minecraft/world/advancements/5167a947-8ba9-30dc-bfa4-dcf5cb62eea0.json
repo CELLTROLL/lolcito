@@ -816,6 +816,7 @@
       "bread": "2025-05-03 19:14:11 +0000",
       "salmon": "2025-05-03 18:12:13 +0000",
       "melon_slice": "2025-05-03 18:35:18 +0000",
+      "cooked_chicken": "2025-05-06 01:23:28 +0000",
       "mushroom_stew": "2025-05-06 01:10:25 +0000",
       "carrot": "2025-05-06 00:28:03 +0000"
     },
@@ -3352,6 +3353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-06 00:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-06 00:41:07 +0000"
@@ -3412,39 +3419,9 @@
     },
     "done": true
   },
-  "immersivecaves:funguy": {
-    "criteria": {
-      "funguy_0": "2025-05-06 00:51:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-06 00:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-05-06 00:51:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-05-06 00:39:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-05-06 01:15:58 +0000"
-    },
-    "done": true
-  },
-  "immersivecaves:a_mushroom_a_day": {
-    "criteria": {
-      "a_mushroom_a_day_0": "2025-05-06 00:51:43 +0000"
     },
     "done": true
   },
@@ -3454,15 +3431,117 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-06 00:41:07 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:funguy": {
+    "criteria": {
+      "funguy_0": "2025-05-06 00:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-06 00:51:43 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:a_mushroom_a_day": {
+    "criteria": {
+      "a_mushroom_a_day_0": "2025-05-06 00:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-05-06 00:51:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_diamond": "2025-05-06 00:41:07 +0000"
+      "has_emerald": "2025-05-06 01:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-06 01:21:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-06 01:22:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-05-06 01:23:23 +0000"
     },
     "done": true
   },

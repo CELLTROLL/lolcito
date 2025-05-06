@@ -350,3 +350,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 01:09:18.016] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leila'/26339, l='ServerLevel[world]', x=767.44, y=88.57, z=-1563.71] died: Leila was turned into KFC by Fire Dragon
 [06May2025 01:11:25.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Deborah'/27730, l='ServerLevel[world]', x=764.05, y=87.00, z=-1569.34] died, message: 'Deborah burned to death'
 [06May2025 01:11:25.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Deborah'/27730, l='ServerLevel[world]', x=764.05, y=87.00, z=-1569.34] died: Deborah burned to death
+[06May2025 01:22:27.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [No Step on Snake]
+[06May2025 01:22:27.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06May2025 01:22:28.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06May2025 01:22:30.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06May2025 01:22:57.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [We do a little trolling...]
+[06May2025 01:23:49.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simoncitoPeru lost connection: Disconnected
+[06May2025 01:23:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru left the game
+[06May2025 01:23:49.410] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client simoncitoPeru
+[06May2025 01:23:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 burned to death
+[06May2025 01:24:19.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: simoncitoPeru[/127.212.250.59:50543] logged in with entity id 35636 at (1358.1471962781216, 81.0, -1645.7044958286006)
+[06May2025 01:24:19.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru joined the game
+[06May2025 01:24:19.789] [Server thread/INFO] [Jade/]: Syncing config to simoncitoPeru (5167a947-8ba9-30dc-bfa4-dcf5cb62eea0)
+[06May2025 01:24:20.065] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of simoncitoPeru (18)
+[06May2025 01:24:20.066] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to simoncitoPeru
+[06May2025 01:25:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 went up in flames
+[06May2025 01:26:50.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Take Aim]
