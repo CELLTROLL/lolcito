@@ -402,3 +402,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 03:29:22.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Spectator Mode]
 [06May2025 03:30:45.984] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tile_grave
 [06May2025 03:33:13.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[06May2025 03:39:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 10 [Bookshelf] to CELLTROLL7u7]
+[06May2025 03:42:00.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [A Seedy Place]

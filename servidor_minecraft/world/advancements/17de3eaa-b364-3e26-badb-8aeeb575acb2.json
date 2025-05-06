@@ -3377,6 +3377,12 @@
     },
     "done": true
   },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-05-06 03:41:28 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/palm_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-06 02:19:25 +0000"
@@ -3454,6 +3460,20 @@
       "has_spider_eye": "2025-05-06 02:05:01 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-06 03:41:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "amethyst_bronze": "2025-05-06 03:41:28 +0000",
+      "enderslime_vine": "2025-05-06 03:41:28 +0000",
+      "hepatizon": "2025-05-06 03:41:28 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/building_blocks/palm_stairs": {
     "criteria": {
