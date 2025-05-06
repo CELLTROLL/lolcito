@@ -382,3 +382,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 01:46:42.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to simoncitoPeru
 [06May2025 01:46:47.910] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
 [06May2025 01:46:47.910] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[06May2025 01:59:41.998] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46021, l='ServerLevel[world]', x=1355.50, y=78.00, z=-1854.50]
