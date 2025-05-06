@@ -303,6 +303,7 @@
       "woodland": "2025-05-03 18:24:46 +0000",
       "scrubland": "2025-05-03 18:18:23 +0000",
       "lush_savanna": "2025-05-03 18:02:38 +0000",
+      "mediterranean_forest": "2025-05-06 03:08:14 +0000",
       "dryland": "2025-05-03 18:11:11 +0000",
       "wasteland": "2025-05-03 18:16:22 +0000",
       "lush_desert": "2025-05-03 18:04:04 +0000",
@@ -3565,6 +3566,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-06 03:19:44 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/copper_platform": {
     "criteria": {
       "has_bars": "2025-05-06 02:12:53 +0000"
@@ -3616,6 +3623,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-06 02:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-06 03:13:58 +0000"
     },
     "done": true
   },
@@ -3673,6 +3686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-06 03:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-05-06 02:10:25 +0000"
@@ -3727,6 +3746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-06 03:13:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2025-05-06 02:30:44 +0000"
@@ -3778,6 +3803,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-06 02:30:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-06 03:15:18 +0000"
     },
     "done": true
   },
