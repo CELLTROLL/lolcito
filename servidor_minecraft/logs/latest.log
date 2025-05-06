@@ -395,3 +395,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [06May2025 02:38:26.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mary'/57568, l='ServerLevel[world]', x=1112.57, y=78.00, z=-1025.14] died: Mary was slain by Fire Dragon
 [06May2025 02:41:09.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Theresa'/56889, l='ServerLevel[world]', x=1141.47, y=82.00, z=-1035.62] died, message: 'Theresa was incinerated by Fire Dragon'
 [06May2025 02:41:09.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Theresa'/56889, l='ServerLevel[world]', x=1141.47, y=82.00, z=-1035.62] died: Theresa was turned into KFC by Fire Dragon
+[06May2025 02:49:41.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 was slain by Chort
+[06May2025 02:52:29.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 burned to death
