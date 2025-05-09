@@ -4089,12 +4089,42 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-09 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-09 01:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-09 01:44:09 +0000",
       "minecraft:nether_wastes": "2025-05-09 01:44:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-09 01:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-09 01:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-09 02:42:23 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
@@ -4105,24 +4135,6 @@
   "minecraft:recipes/building_blocks/dye_orange_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-09 02:42:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-05-09 01:44:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-05-09 01:44:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-05-09 02:42:23 +0000"
     },
     "done": true
   },
@@ -4138,9 +4150,15 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "entered_nether": "2025-05-09 01:44:08 +0000"
+      "has_orange_dye": "2025-05-09 02:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 02:42:39 +0000"
     },
     "done": true
   },
@@ -4150,21 +4168,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+  "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
-      "has_orange_dye": "2025-05-09 02:42:39 +0000"
+      "killed_fire_dragon": "2025-05-09 02:53:47 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
-      "entered_nether": "2025-05-09 01:44:08 +0000"
+      "has_item": "2025-05-09 02:53:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
-      "has_needed_dye": "2025-05-09 02:42:39 +0000"
+      "has_sea_serpent_scales_deepblue": "2025-05-09 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-05-09 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-05-09 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-09 02:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-09 02:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-09 02:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-09 02:56:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-09 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-09 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-09 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-05-09 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-09 02:56:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-05-09 02:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-09 02:56:35 +0000"
     },
     "done": true
   },

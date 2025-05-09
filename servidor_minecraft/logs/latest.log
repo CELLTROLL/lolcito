@@ -1572,3 +1572,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [09May2025 02:39:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Randomm09> Z
 [09May2025 02:48:44.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1393, y=82, z=-1665} BlockPos{x=1393, y=81, z=-1665}
 [09May2025 02:48:44.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1393, y=82, z=-1665} BlockPos{x=1393, y=81, z=-1665}
+[09May2025 02:51:26.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> z
+[09May2025 02:51:27.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> z
+[09May2025 02:51:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> z
+[09May2025 02:51:28.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> z
+[09May2025 02:52:36.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Randomm09 lost connection: Disconnected
+[09May2025 02:52:36.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 left the game
+[09May2025 02:52:36.749] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Randomm09
+[09May2025 02:52:46.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Randomm09[/127.0.78.193:34081] logged in with entity id 77445 at (1396.814331319452, 82.0, -1668.062947943327)
+[09May2025 02:52:46.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 joined the game
+[09May2025 02:52:46.964] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
+[09May2025 02:52:47.186] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
+[09May2025 02:52:47.187] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[09May2025 02:53:19.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Randomm09 lost connection: Disconnected
+[09May2025 02:53:19.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 left the game
+[09May2025 02:53:19.550] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Randomm09
+[09May2025 02:53:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Sea? Not a Problem]
+[09May2025 02:55:07.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Randomm09[/127.0.78.193:55935] logged in with entity id 78365 at (1396.2004899417773, 82.0, -1667.5159606895638)
+[09May2025 02:55:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 joined the game
+[09May2025 02:55:07.591] [Server thread/INFO] [Jade/]: Syncing config to Randomm09 (a68e076c-8879-3dca-882e-d10e93705ffa)
+[09May2025 02:55:08.157] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Randomm09 (18)
+[09May2025 02:55:08.157] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Randomm09
+[09May2025 02:55:43.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Tie me to the Mast]
+[09May2025 02:56:43.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 10 [Bookshelf] to CELLTROLL7u7]
+[09May2025 02:57:19.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simoncitoPeru lost connection: Disconnected
+[09May2025 02:57:19.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru left the game
+[09May2025 02:57:19.406] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client simoncitoPeru
+[09May2025 02:57:35.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: simoncitoPeru[/127.212.250.59:51967] logged in with entity id 79615 at (1776.4270765248625, 59.32682937744802, -1732.5922383582001)
+[09May2025 02:57:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru joined the game
+[09May2025 02:57:35.380] [Server thread/INFO] [Jade/]: Syncing config to simoncitoPeru (5167a947-8ba9-30dc-bfa4-dcf5cb62eea0)
+[09May2025 02:57:35.518] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of simoncitoPeru (18)
+[09May2025 02:57:35.519] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to simoncitoPeru
+[09May2025 02:57:47.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simoncitoPeru lost connection: Disconnected
+[09May2025 02:57:47.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru left the game
+[09May2025 02:57:47.104] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client simoncitoPeru
+[09May2025 02:58:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 10 [Book] to CELLTROLL7u7]
+[09May2025 02:58:23.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Enchanter]
+[09May2025 02:59:00.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: simoncitoPeru[/127.212.250.59:50323] logged in with entity id 80054 at (1774.699999988079, 63.0, -1728.300000011921)
+[09May2025 02:59:00.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru joined the game
+[09May2025 02:59:00.284] [Server thread/INFO] [Jade/]: Syncing config to simoncitoPeru (5167a947-8ba9-30dc-bfa4-dcf5cb62eea0)
+[09May2025 02:59:00.562] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of simoncitoPeru (18)
+[09May2025 02:59:00.562] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to simoncitoPeru
+[09May2025 02:59:02.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Teleported simoncitoPeru to CELLTROLL7u7]

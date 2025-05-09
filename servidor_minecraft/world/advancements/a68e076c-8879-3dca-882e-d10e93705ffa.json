@@ -3882,27 +3882,69 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-09 00:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-05-09 01:26:53 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/food/fire_stew": {
+  "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
-      "has_item": "2025-05-09 02:15:13 +0000"
+      "has_planks": "2025-05-09 01:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-09 01:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-09 01:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-09 01:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-09 01:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-09 01:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-09 01:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-09 01:26:53 +0000"
     },
     "done": true
   },
   "ecologics:recipes/ecologics/azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
     },
     "done": true
   },
@@ -3924,45 +3966,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2025-05-09 02:15:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-09 02:12:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-05-09 02:18:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-05-09 02:15:57 +0000"
     },
     "done": true
   },
@@ -3984,36 +3990,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-05-09 02:12:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:26:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-05-09 02:17:36 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
@@ -4026,51 +4002,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:26:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-05-09 02:12:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-05-09 01:40:24 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-05-09 02:15:58 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-09 02:15:13 +0000"
     },
     "done": true
   },
@@ -4086,69 +4020,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-09 02:15:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:26:53 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
-    "criteria": {
-      "has_item": "2025-05-09 02:15:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-05-09 02:15:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-05-09 02:15:13 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/coconut_wood": {
-    "criteria": {
-      "has_log": "2025-05-09 01:36:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
     },
     "done": true
   },
@@ -4164,81 +4038,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-05-09 02:42:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-05-09 02:15:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:26:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-05-09 02:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-05-09 02:15:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:26:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-05-09 02:15:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:26:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-05-09 02:41:49 +0000"
     },
     "done": true
   },
@@ -4248,57 +4050,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-05-09 02:15:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-09 02:15:13 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-09 02:12:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-05-09 02:15:13 +0000"
     },
     "done": true
   },
@@ -4320,27 +4080,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:26:53 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:27:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-09 00:58:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-05-09 02:12:29 +0000"
     },
     "done": true
   },
@@ -4350,15 +4092,171 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-09 01:27:02 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_wood": {
+    "criteria": {
+      "has_log": "2025-05-09 01:36:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_planks": {
+    "criteria": {
+      "has_logs": "2025-05-09 01:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-09 01:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-09 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-09 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-09 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-09 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-09 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-09 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-05-09 02:14:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
-      "has_red_dye": "2025-05-09 02:15:13 +0000"
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-09 02:14:29 +0000"
     },
     "done": true
   },
@@ -4374,51 +4272,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-05-09 02:15:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-05-09 02:15:13 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/coconut_planks": {
-    "criteria": {
-      "has_logs": "2025-05-09 01:36:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
-    "criteria": {
-      "has_tiny_cactus": "2025-05-09 02:15:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:26:53 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-05-09 02:14:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-09 01:27:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-09 02:12:29 +0000"
     },
     "done": true
   },
@@ -4431,6 +4287,156 @@
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-09 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-09 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-09 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-05-09 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-09 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-05-09 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-09 02:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-09 02:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-09 02:15:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-05-09 02:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-09 02:18:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-09 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-09 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-09 02:42:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks": {
+    "criteria": {
+      "has_slab": "2025-05-09 02:56:16 +0000"
     },
     "done": true
   },
