@@ -1559,3 +1559,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [09May2025 02:13:10.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
 [09May2025 02:13:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
 [09May2025 02:17:36.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 has made the advancement [Would you Like to Know More?]
+[09May2025 02:24:01.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of CELLTROLL7u7) moved wrongly! 0.5107854321722698
+[09May2025 02:24:01.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of CELLTROLL7u7) moved wrongly! 1.251808101774941
+[09May2025 02:24:01.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of CELLTROLL7u7) moved wrongly! 1.727239875669511
+[09May2025 02:24:01.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of CELLTROLL7u7) moved wrongly! 2.0248129421743215
+[09May2025 02:24:30.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CELLTROLL7u7 moved wrongly!
+[09May2025 02:29:36.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1 [Diamond Pickaxe] to CELLTROLL7u7]
