@@ -4440,5 +4440,113 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_slab": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_door": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_sign": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_fence": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_button": {
+    "criteria": {
+      "has_planks": "2025-05-09 03:00:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-09 03:04:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
