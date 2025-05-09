@@ -461,6 +461,7 @@
       "scrubland": "2025-05-03 18:15:42 +0000",
       "bayou": "2025-05-09 01:18:55 +0000",
       "lush_savanna": "2025-05-03 18:02:38 +0000",
+      "spider_nest": "2025-05-09 01:29:40 +0000",
       "dryland": "2025-05-03 18:11:46 +0000",
       "wasteland": "2025-05-03 18:05:32 +0000",
       "lush_desert": "2025-05-03 18:01:20 +0000",
@@ -1364,6 +1365,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-03 19:15:00 +0000",
       "minecraft:spider": "2025-05-03 19:17:42 +0000",
+      "minecraft:witch": "2025-05-09 01:26:17 +0000",
+      "minecraft:enderman": "2025-05-09 01:31:10 +0000",
       "minecraft:zombie": "2025-05-03 19:15:20 +0000"
     },
     "done": false
@@ -3675,6 +3678,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-09 01:25:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:08:21 +0000"
@@ -3714,6 +3723,12 @@
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 01:08:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-05-09 01:24:42 +0000"
     },
     "done": true
   },
