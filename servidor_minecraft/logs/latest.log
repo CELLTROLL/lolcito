@@ -1565,3 +1565,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [09May2025 02:24:01.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of CELLTROLL7u7) moved wrongly! 2.0248129421743215
 [09May2025 02:24:30.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CELLTROLL7u7 moved wrongly!
 [09May2025 02:29:36.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1 [Diamond Pickaxe] to CELLTROLL7u7]
+[09May2025 02:30:00.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1000 experience points to CELLTROLL7u7]
+[09May2025 02:30:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1000 experience points to CELLTROLL7u7]
+[09May2025 02:39:33.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Randomm09> WZZ
+[09May2025 02:39:33.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Randomm09> Z
+[09May2025 02:39:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Randomm09> Z
