@@ -1518,3 +1518,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [09May2025 01:47:16.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Into Fire]
 [09May2025 01:48:37.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Molten Sludge!]
 [09May2025 01:48:42.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[09May2025 01:49:12.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
+[09May2025 01:52:09.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[09May2025 01:52:43.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
+[09May2025 01:53:09.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has reached the goal [Hot]
+[09May2025 01:59:02.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Rigged from the Start]
+[09May2025 02:01:38.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Best Friends Forever]
+[09May2025 02:02:34.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[09May2025 02:03:01.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
+[09May2025 02:04:19.803] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 02:04:30.903] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 02:04:37.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[09May2025 02:04:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
+[09May2025 02:06:08.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CELLTROLL7u7 moved too quickly! 8.825489315324262,-1.0104000401496904,6.3682165167524545
+[09May2025 02:06:22.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[09May2025 02:06:25.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
+[09May2025 02:06:39.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[09May2025 02:07:37.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
+[09May2025 02:08:10.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
