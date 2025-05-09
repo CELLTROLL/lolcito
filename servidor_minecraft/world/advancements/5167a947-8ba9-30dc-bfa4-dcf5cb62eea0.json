@@ -36,6 +36,7 @@
       "minecraft:lukewarm_ocean": "2025-05-05 02:19:47 +0000",
       "minecraft:forest": "2025-05-03 18:25:21 +0000",
       "minecraft:desert": "2025-05-03 17:58:56 +0000",
+      "minecraft:warm_ocean": "2025-05-09 01:42:43 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-09 01:27:57 +0000",
       "minecraft:savanna": "2025-05-03 18:31:06 +0000"
     },
@@ -1363,6 +1364,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-03 19:59:11 +0000",
+      "minecraft:hoglin": "2025-05-09 01:45:26 +0000",
       "minecraft:spider": "2025-05-03 19:14:01 +0000",
       "minecraft:creeper": "2025-05-03 18:56:48 +0000",
       "minecraft:witch": "2025-05-05 02:16:22 +0000",
@@ -4082,6 +4084,37 @@
   "tconstruct:world/earth_island": {
     "criteria": {
       "found_island": "2025-05-09 01:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-09 01:44:09 +0000",
+      "minecraft:nether_wastes": "2025-05-09 01:44:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-09 01:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-09 01:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-09 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-09 01:44:08 +0000"
     },
     "done": true
   },
