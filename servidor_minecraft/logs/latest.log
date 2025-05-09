@@ -331,3 +331,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [09May2025 00:43:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> z
 [09May2025 00:48:34.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Randomm09 fell from a high place
 [09May2025 00:48:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru was blown up by Creeper
+[09May2025 01:02:16.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CELLTROLL7u7[/127.159.255.78:60393] logged in with entity id 4088 at (1346.300000011921, 131.0, -558.4870292235403)
+[09May2025 01:02:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 joined the game
+[09May2025 01:02:16.776] [Server thread/INFO] [Jade/]: Syncing config to CELLTROLL7u7 (17de3eaa-b364-3e26-badb-8aeeb575acb2)
+[09May2025 01:02:17.470] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CELLTROLL7u7 (18)
+[09May2025 01:02:17.471] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CELLTROLL7u7
