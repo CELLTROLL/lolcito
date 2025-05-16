@@ -4509,6 +4509,12 @@
     },
     "done": true
   },
+  "immersivecaves:behindyou": {
+    "criteria": {
+      "behindyou_0": "2025-05-16 04:05:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-05-16 03:15:00 +0000"
@@ -4524,6 +4530,12 @@
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-05-16 03:15:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-16 04:05:32 +0000"
     },
     "done": true
   },

@@ -422,3 +422,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [16May2025 04:04:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [BEHIND YOU 0_0]
 [16May2025 04:05:12.597] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42287, l='ServerLevel[world]', x=1929.50, y=71.00, z=393.50]
 [16May2025 04:05:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [BEHIND YOU 0_0]
+[16May2025 04:08:25.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CELLTROLL7u7 lost connection: Disconnected
+[16May2025 04:08:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 left the game
+[16May2025 04:08:25.455] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CELLTROLL7u7
+[16May2025 04:09:34.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: simoncitoPeru lost connection: Disconnected
+[16May2025 04:09:34.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru left the game
+[16May2025 04:09:34.256] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client simoncitoPeru
+[16May2025 04:09:51.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dqrknessalt lost connection: Disconnected
+[16May2025 04:09:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt left the game
+[16May2025 04:09:51.250] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dqrknessalt
+[16May2025 04:10:00.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 04:10:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 04:10:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 04:10:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 04:10:00.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 04:10:00.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 04:10:00.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 04:10:01.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 04:10:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 04:10:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 04:10:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16May2025 04:10:01.138] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
