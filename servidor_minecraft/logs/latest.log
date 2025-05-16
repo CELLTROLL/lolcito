@@ -346,3 +346,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [16May2025 02:58:54.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Monster Hunter]
 [16May2025 03:00:24.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Teleported CELLTROLL7u7 to simoncitoPeru]
 [16May2025 03:01:02.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Teleported CELLTROLL7u7 to simoncitoPeru]
+[16May2025 03:06:13.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Pic-A-Nic Basket?]
+[16May2025 03:06:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Diamonds!]
+[16May2025 03:08:06.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dqrknessalt lost connection: Disconnected
+[16May2025 03:08:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt left the game
+[16May2025 03:08:06.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dqrknessalt
+[16May2025 03:08:15.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dqrknessalt[/127.130.48.117:50843] logged in with entity id 13180 at (1775.4822232967408, -7.0, -1252.300000011921)
+[16May2025 03:08:15.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt joined the game
+[16May2025 03:08:15.409] [Server thread/INFO] [Jade/]: Syncing config to dqrknessalt (9c5f4c58-b2df-3d75-b45d-6c61fcda40d8)
+[16May2025 03:08:15.559] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dqrknessalt (18)
+[16May2025 03:08:15.560] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dqrknessalt
+[16May2025 03:11:00.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14760, l='ServerLevel[world]', x=1993.50, y=77.00, z=-1141.50]
+[16May2025 03:11:43.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Teleported CELLTROLL7u7 to simoncitoPeru]
