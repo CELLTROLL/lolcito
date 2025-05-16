@@ -377,3 +377,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [16May2025 03:50:54.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1999, y=109, z=169} BlockPos{x=1999, y=110, z=168}
 [16May2025 03:51:26.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Gone Bananas!]
 [16May2025 03:54:06.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Gone Bananas!]
+[16May2025 03:56:04.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dqrknessalt lost connection: Disconnected
+[16May2025 03:56:04.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt left the game
+[16May2025 03:56:04.907] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dqrknessalt
+[16May2025 03:56:37.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 fell from a high place
+[16May2025 03:56:47.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Teleported CELLTROLL7u7 to simoncitoPeru]
+[16May2025 03:57:53.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dqrknessalt[/127.130.48.117:56529] logged in with entity id 39796 at (1409.9181501699645, 82.0, -1662.3728276556221)
+[16May2025 03:57:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt joined the game
+[16May2025 03:57:53.632] [Server thread/INFO] [Jade/]: Syncing config to dqrknessalt (9c5f4c58-b2df-3d75-b45d-6c61fcda40d8)
+[16May2025 03:57:54.561] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dqrknessalt (18)
+[16May2025 03:57:54.561] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dqrknessalt
+[16May2025 03:59:07.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dqrknessalt lost connection: Disconnected
+[16May2025 03:59:07.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt left the game
+[16May2025 03:59:07.255] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dqrknessalt
+[16May2025 03:59:46.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40491, l='ServerLevel[world]', x=1938.50, y=73.00, z=434.50]
+[16May2025 03:59:48.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40517, l='ServerLevel[world]', x=1952.50, y=72.00, z=468.50]
+[16May2025 04:00:14.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40598, l='ServerLevel[world]', x=1931.50, y=71.00, z=393.50]
+[16May2025 04:00:47.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40656, l='ServerLevel[world]', x=1936.50, y=74.00, z=405.50]
+[16May2025 04:01:38.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40794, l='ServerLevel[world]', x=1934.50, y=74.00, z=406.50]
+[16May2025 04:01:52.070] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e238fe3[id=<null>,name=dqrknessalt,properties={},legacy=false] (/127.130.48.117:47603) lost connection: Disconnected
+[16May2025 04:02:08.242] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40887, l='ServerLevel[world]', x=1897.50, y=72.00, z=404.50]
+[16May2025 04:02:17.341] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40948, l='ServerLevel[world]', x=1936.50, y=74.00, z=407.50]
+[16May2025 04:02:19.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7311a159[id=<null>,name=dqrknessalt,properties={},legacy=false] (/127.130.48.117:41573) lost connection: Disconnected
+[16May2025 04:02:24.891] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40982, l='ServerLevel[world]', x=1897.50, y=72.00, z=427.50]
+[16May2025 04:02:30.743] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41026, l='ServerLevel[world]', x=1907.50, y=74.00, z=437.50]
+[16May2025 04:02:38.051] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fbfa934[id=<null>,name=dqrknessalt,properties={},legacy=false] (/127.130.48.117:49049) lost connection: Disconnected
+[16May2025 04:02:57.643] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41135, l='ServerLevel[world]', x=1961.50, y=76.00, z=430.50]
+[16May2025 04:03:03.643] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41165, l='ServerLevel[world]', x=1897.50, y=72.00, z=403.50]
+[16May2025 04:03:11.591] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41176, l='ServerLevel[world]', x=1936.50, y=74.00, z=406.50]
+[16May2025 04:03:11.857] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@237bc2ef[id=<null>,name=dqrknessalt,properties={},legacy=false] (/127.130.48.117:37607) lost connection: Disconnected
+[16May2025 04:03:42.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41254, l='ServerLevel[world]', x=1916.50, y=72.00, z=441.50]
+[16May2025 04:03:46.342] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41264, l='ServerLevel[world]', x=1964.50, y=73.00, z=461.50]
+[16May2025 04:03:57.951] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b225a83[id=<null>,name=dqrknessalt,properties={},legacy=false] (/127.130.48.117:36843) lost connection: Disconnected
+[16May2025 04:03:58.841] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41306, l='ServerLevel[world]', x=1895.50, y=72.00, z=427.50]
+[16May2025 04:04:01.894] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41315, l='ServerLevel[world]', x=1918.50, y=72.00, z=442.50]
+[16May2025 04:04:05.291] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41334, l='ServerLevel[world]', x=1931.50, y=71.00, z=394.50]
+[16May2025 04:04:07.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dqrknessalt[/127.130.48.117:34469] logged in with entity id 41337 at (1404.8942646614412, 82.0, -1653.300000011921)
+[16May2025 04:04:07.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt joined the game
+[16May2025 04:04:07.583] [Server thread/INFO] [Jade/]: Syncing config to dqrknessalt (9c5f4c58-b2df-3d75-b45d-6c61fcda40d8)
+[16May2025 04:04:08.337] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dqrknessalt (18)
+[16May2025 04:04:08.338] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dqrknessalt
+[16May2025 04:04:19.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41561, l='ServerLevel[world]', x=1916.50, y=72.00, z=419.50]
+[16May2025 04:04:34.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set the time to 1000]
+[16May2025 04:04:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [BEHIND YOU 0_0]
+[16May2025 04:05:12.597] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42287, l='ServerLevel[world]', x=1929.50, y=71.00, z=393.50]
+[16May2025 04:05:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [BEHIND YOU 0_0]

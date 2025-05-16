@@ -4569,6 +4569,12 @@
     },
     "done": true
   },
+  "immersivecaves:behindyou": {
+    "criteria": {
+      "behindyou_0": "2025-05-16 04:04:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-16 03:18:24 +0000"
