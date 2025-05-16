@@ -5716,3 +5716,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [16May2025 03:30:05.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16May2025 03:35:05.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16May2025 03:35:05.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:39:13.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set the time to 1000]
+[16May2025 03:40:05.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:40:05.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:42:18.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <simoncitoPeru> [name:"casa", x:1403, y:82, z:-1649, dim:minecraft:overworld]
+[16May2025 03:43:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Dragonslayer]
+[16May2025 03:45:05.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:45:05.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:46:19.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Take Aim]
+[16May2025 03:48:56.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Teleported simoncitoPeru to CELLTROLL7u7]
+[16May2025 03:49:24.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set the time to 1000]
+[16May2025 03:49:30.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Cover Me with Diamonds]
+[16May2025 03:50:05.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:50:05.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:50:08.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 45 [Golden Carrot] to CELLTROLL7u7]
+[16May2025 03:50:54.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1999, y=109, z=169} BlockPos{x=1999, y=110, z=168}
+[16May2025 03:51:26.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: simoncitoPeru has made the advancement [Gone Bananas!]
+[16May2025 03:54:06.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CELLTROLL7u7 has made the advancement [Gone Bananas!]
+[16May2025 03:55:05.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:55:05.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
