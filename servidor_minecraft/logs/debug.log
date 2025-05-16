@@ -5273,3 +5273,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [16May2025 02:50:05.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16May2025 02:53:15.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
 [16May2025 02:54:07.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[16May2025 02:55:05.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 02:55:05.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 02:55:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Mine? Mine? Mine?]
+[16May2025 02:57:35.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
+[16May2025 02:57:44.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
+[16May2025 02:58:48.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Gave 1000 experience points to CELLTROLL7u7]
+[16May2025 02:58:54.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Monster Hunter]
+[16May2025 03:00:05.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:00:05.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:00:24.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Teleported CELLTROLL7u7 to simoncitoPeru]
+[16May2025 03:01:02.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Teleported CELLTROLL7u7 to simoncitoPeru]
