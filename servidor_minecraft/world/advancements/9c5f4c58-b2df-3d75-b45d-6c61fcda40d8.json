@@ -1441,7 +1441,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-05-16 02:58:54 +0000"
+      "minecraft:skeleton": "2025-05-16 02:58:54 +0000",
+      "minecraft:zombie": "2025-05-16 03:15:35 +0000"
     },
     "done": false
   },
@@ -1892,6 +1893,18 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-16 03:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-16 03:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-16 03:21:59 +0000"
     },
     "done": true
   },
