@@ -5266,3 +5266,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
 [16May2025 02:41:19.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Acquire Hardware]
 [16May2025 02:42:38.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Suit Up]
 [16May2025 02:44:28.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Stone Age]
+[16May2025 02:45:05.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 02:45:05.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 02:47:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dqrknessalt has made the advancement [Sweet Dreams]
+[16May2025 02:50:05.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 02:50:05.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 02:53:15.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Creative Mode]
+[16May2025 02:54:07.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CELLTROLL7u7: Set own game mode to Survival Mode]
