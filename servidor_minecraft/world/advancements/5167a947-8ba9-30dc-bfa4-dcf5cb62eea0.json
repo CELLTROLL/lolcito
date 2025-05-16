@@ -40,7 +40,8 @@
       "minecraft:windswept_savanna": "2025-05-16 03:18:12 +0000",
       "minecraft:warm_ocean": "2025-05-09 01:42:43 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-09 01:27:57 +0000",
-      "minecraft:savanna": "2025-05-03 18:31:06 +0000"
+      "minecraft:savanna": "2025-05-03 18:31:06 +0000",
+      "minecraft:plains": "2025-05-16 03:29:34 +0000"
     },
     "done": false
   },
@@ -312,6 +313,7 @@
       "dryland": "2025-05-03 18:11:11 +0000",
       "wasteland": "2025-05-03 18:16:22 +0000",
       "lush_desert": "2025-05-03 18:04:04 +0000",
+      "volcano": "2025-05-16 03:29:24 +0000",
       "volcanic_plains": "2025-05-16 03:18:32 +0000",
       "undergrowth": "2025-05-09 02:42:44 +0000",
       "rainforest": "2025-05-16 03:17:34 +0000",
